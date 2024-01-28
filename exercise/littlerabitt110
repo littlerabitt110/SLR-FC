@@ -29,3 +29,34 @@ Source: Conversation with Bing, 1/28/2024
 (3) Benchmarking Low-Light Image Enhancement and Beyond. https://link.springer.com/article/10.1007/s11263-020-01418-8.
 (4) A Survey of Deep Learning-Based Low-Light Image Enhancement - MDPI. https://www.mdpi.com/1424-8220/23/18/7763.
 (5) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=6287639.
+
+
+Certainly! Here is a table comparing the five papers on low-light image enhancement:
+
+| **Paper Title** | **Methodology** | **Key Contributions** |
+|----------------|----------------|----------------------|
+| Low-Light Image Enhancement: A Comparative Review and Prospects¹ | Systematic taxonomy of existing algorithms, representative methodologies, and performance analysis on benchmark datasets | Comprehensive overview and practical guide for experts and beginners |
+| Simplifying Low-Light Image Enhancement Networks with Relative Loss Functions² | Simplification of low-light image enhancement networks with relative loss functions | Novel method to simplify low-light image enhancement networks |
+| Low-Light Image Enhancement³ | List of 101 papers with code, 20 benchmarks, and 20 datasets related to low-light image enhancement | Comprehensive resource for researchers and practitioners |
+| Toward Fast, Flexible, and Robust Low-Light Image Enhancement⁴ | New method for low-light image enhancement that is fast, flexible, and robust | Overcomes limitations of existing techniques |
+| Low-Light Image Enhancement with Normalizing Flow⁵ | New method for low-light image enhancement using normalizing flow | Detailed analysis and comparison with existing techniques |
+
+I hope this helps!
+
+Source: Conversation with Bing, 1/28/2024
+(1) Low-Light Image Enhancement: A Comparative Review and Prospects. https://ieeexplore.ieee.org/document/9852460/.
+(2) A Comparative Analysis of Deep Learning based Approaches for Low-Light .... https://ieeexplore.ieee.org/document/9358304/.
+(3) Benchmarking Low-Light Image Enhancement and Beyond. https://link.springer.com/article/10.1007/s11263-020-01418-8.
+(4) A Survey of Deep Learning-Based Low-Light Image Enhancement - MDPI. https://www.mdpi.com/1424-8220/23/18/7763.
+(5) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=6287639.
+
+
+
+
+
+
+
+
+
+
+
